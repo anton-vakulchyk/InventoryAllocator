@@ -12,7 +12,7 @@ $inventory = new Inventory(array(
 ));
 
 $orderStream = array(
-    git add README.md'1' => array('A' => 10, 'B' => 10, 'C' => 10, 'D' => 10, 'E' => 10),
+    '1' => array('A' => 10, 'B' => 10, 'C' => 10, 'D' => 10, 'E' => 10),
     '2' => array('A' => 1, 'B' => 7),
     '3' => array('A' => 1, 'B' => 7),
 );
